@@ -59,7 +59,7 @@
   "mainCategoryBookName" : "a\/text()",
   "bookDetailState" : "\/\/div[@id='count']\/\/li[3]\/span\/text()",
   "bookDetailCharset" : "gbk",
-  "bookDetailAuthor" : "\/\/span[@class='p_author']\/a\/text()",
+  "bookDetailAuthor" : "\/\/div[@id='count']\/ul\/li\/a\/text()",
   "categoryRankBookUrl" : "",
   "categoryUpdateBookAuthor" : "",
   "searchBookAuthor" : "",
